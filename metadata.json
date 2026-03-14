@@ -1,0 +1,5 @@
+{
+  "name": "BreadLogis",
+  "description": "A logistics and route optimization app for a bread factory delivering to various customers (hotels, shops, schools) with time windows and capacity constraints.",
+  "requestFramePermissions": []
+}
